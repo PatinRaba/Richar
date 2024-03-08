@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dNvnbe/DRRYAH8ssG/+6Ir7CAn4FigC04DyUzhJ3Go5aCV0OaKMhzSDQTZ8hI6IcBtOxl8Equuuw+KRPTILCeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aluno\\Documents\\GitHub\\Richar\\Venda\\Venda\\Venda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
